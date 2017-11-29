@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Roger Cheng",
+	"description":	{
+		"":	"Hello World Fusion 360 script"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
